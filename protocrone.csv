@@ -1,0 +1,51 @@
+title,year,rating,watched_date,rewatch,genre,director,runtime,imdb_rating
+Mother Mary,2026,4.0,2026-05-16,No,"Drama, Music, Thriller",David Lowery,112 min,4.0
+The Christophers,2025,4.0,2026-04-25,No,"Comedy, Drama",Steven Soderbergh,100 min,6.8
+Finding Vivian Maier,2013,3.0,2026-05-15,No,"Documentary, Biography, History","John Maloof, Charlie Siskel",83 min,7.7
+War Horse,2011,2.5,2026-03-24,No,"Adventure, Drama, War",Steven Spielberg,146 min,7.2
+1917,2019,3.0,2026-03-17,No,"Action, Drama, War",Sam Mendes,119 min,8.2
+Twinless,2025,3.0,2026-03-10,No,"Comedy, Drama",James Sweeney,100 min,7.4
+Wuthering Heights,2026,3.5,2026-02-21,No,"Drama, Romance",Emerald Fennell,136 min,6.2
+If I Had Legs I'd Kick You,2025,3.5,2026-02-07,No,"Drama, Thriller",Mary Bronstein,113 min,6.6
+Springsteen: Deliver Me from Nowhere,2025,1.5,2026-02-02,No,"Biography, Drama, Music",Scott Cooper,119 min,6.7
+The Testament of Ann Lee,2025,4.5,2026-01-19,No,"Biography, Drama, History",Mona Fastvold,136 min,6.6
+Jay Kelly,2025,2.5,2026-01-15,No,"Comedy, Drama",Noah Baumbach,132 min,6.6
+A House of Dynamite,2025,2.0,2026-01-15,No,"Drama, Thriller",Kathryn Bigelow,112 min,6.4
+No Other Choice,2025,4.0,2026-01-10,No,"Comedy, Crime, Drama",Park Chan-wook,139 min,7.5
+28 Days Later,2002,4.0,2026-01-05,No,"Drama, Horror, Sci-Fi",Danny Boyle,113 min,7.5
+Marty Supreme,2025,1.0,2026-01-02,No,"Drama, Sport",Josh Safdie,149 min,7.7
+Cover-Up,2025,4.0,2025-12-26,No,"Action, Adventure, Drama",Manny Coto,91 min,4.5
+Now You See Me,2013,2.0,2025-12-27,No,"Crime, Mystery, Thriller",Louis Leterrier,115 min,7.2
+White Christmas,1954,4.0,2025-12-25,No,"Comedy, Musical, Romance",Michael Curtiz,120 min,7.5
+Die Hard,1988,2.5,2025-12-24,No,"Action, Thriller",John McTiernan,132 min,8.2
+A Christmas Story,1983,3.0,2025-12-24,No,"Comedy, Family",Bob Clark,93 min,7.9
+Home for the Holidays,1995,3.5,2025-12-14,No,"Comedy, Drama, Romance",Jodie Foster,103 min,6.6
+Sentimental Value,2025,4.0,2025-12-12,No,Drama,Joachim Trier,133 min,7.7
+Hamnet,2025,2.5,2025-12-10,No,"Biography, Drama, History",Chloé Zhao,125 min,7.8
+The Fall,2006,4.5,2025-12-07,No,"Crime, Drama, Thriller",N/A,21S min,8.1
+Wake Up Dead Man,2025,4.0,2025-12-06,No,"Comedy, Crime, Drama",Rian Johnson,144 min,7.3
+Everything Everywhere All at Once,2022,5.0,2025-11-26,No,"Action, Adventure, Comedy","Daniel Kwan, Daniel Scheinert",139 min,7.7
+The Lord of the Rings: The Return of the King,2003,4.0,2025-11-12,No,"Adventure, Drama, Fantasy",Peter Jackson,201 min,9.0
+Train Dreams,2025,5.0,2025-12-03,No,Drama,Clint Bentley,102 min,7.5
+The Lord of the Rings: The Two Towers,2002,4.5,2025-11-09,No,"Adventure, Drama, Fantasy",Peter Jackson,179 min,8.8
+The Lord of the Rings: The Fellowship of the Ring,2001,4.5,2025-11-08,No,"Adventure, Drama, Fantasy",Peter Jackson,178 min,8.9
+It Was Just an Accident,2025,4.5,2025-11-08,No,"Crime, Drama, Mystery",Jafar Panahi,103 min,7.4
+Poor Things,2023,3.5,2025-11-03,No,"Comedy, Drama, Romance",Yorgos Lanthimos,141 min,7.7
+Frankenstein,2025,3.5,2025-11-01,No,"Drama, Fantasy, Horror",Guillermo del Toro,149 min,7.4
+North by Northwest,1959,4.0,2025-10-30,No,"Adventure, Drama, Mystery",Alfred Hitchcock,136 min,8.3
+The Exorcist,1973,4.0,2025-10-26,No,Horror,William Friedkin,122 min,8.1
+The Lady Vanishes,1938,5.0,2025-10-23,No,"Crime, Drama, Mystery",Alfred Hitchcock,96 min,7.7
+Rebecca,1940,4.5,2025-10-11,No,"Drama, Mystery, Romance",Alfred Hitchcock,130 min,8.1
+Psycho,1960,5.0,2025-10-11,No,"Drama, Horror, Mystery",Alfred Hitchcock,109 min,8.5
+One Battle After Another,2025,5.0,2025-10-05,No,"Action, Crime, Drama",Paul Thomas Anderson,161 min,7.7
+The History of Sound,2025,4.5,2025-09-29,No,"Drama, History, Music",Oliver Hermanus,128 min,6.9
+The Departed,2006,3.0,2025-09-24,No,"Crime, Drama, Thriller",Martin Scorsese,151 min,8.5
+Phantom Thread,2017,4.5,2025-09-21,No,"Drama, Romance",Paul Thomas Anderson,130 min,7.4
+The Favourite,2018,5.0,2025-09-19,No,"Biography, Comedy, Drama",Yorgos Lanthimos,119 min,7.5
+Eternals,2021,2.0,2025-09-11,No,"Action, Adventure, Fantasy",Chloé Zhao,156 min,6.2
+Splitsville,2025,4.0,2025-09-06,No,Comedy,Michael Angelo Covino,104 min,6.4
+The Thursday Murder Club,2025,3.0,2025-08-31,No,"Comedy, Crime, Mystery",Chris Columbus,118 min,6.5
+Jaws,1975,4.0,2025-08-30,No,"Adventure, Horror, Thriller",Steven Spielberg,124 min,8.1
+Parasite,2019,5.0,2025-08-29,No,"Drama, Thriller",Bong Joon Ho,132 min,8.5
+Pacific Rim,2013,4.5,2025-08-28,No,"Action, Adventure, Sci-Fi",Guillermo del Toro,131 min,6.9
+KPop Demon Hunters,2025,3.0,2025-08-24,No,"Animation, Action, Adventure","Chris Appelhans, Maggie Kang",95 min,7.4
